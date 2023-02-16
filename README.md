@@ -1,5 +1,3 @@
-# Perf-abnormality-detection
-
 ## Project: Flamegraph similarity analysis
 
  
